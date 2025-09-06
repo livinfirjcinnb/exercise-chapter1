@@ -1,0 +1,27 @@
+body{
+  font-size: 16pt
+  font-family: veranda, sans-serif;
+  color: red
+  line-height: 14pt
+  padding-left: 5pt
+  padding-right: 5pt
+  padding-top: 5pt
+}
+
+h1 {
+  font-size: 20pt
+  font-weight: bold
+line-height: 20pt
+}
+a:hover, active {
+  color: blue
+}
+
+footer {
+  font-size: 9pt
+  font-style: italics
+line-height: 12pt
+text-align: center
+padding-top: 30pt
+}
+
